@@ -1,6 +1,6 @@
 # Patrones de diseño
 Los patrones de diseño son soluciones probadas y comprobadas a problemas comunes que se encuentran en el desarrollo de software. Estos patrones proporcionan una forma estructurada y organizada de abordar el diseño y la implementación de software, lo que puede mejorar la calidad del código, hacer que el software sea más fácil de mantener y reducir los costos de desarrollo.
-#[UML Clases](https://raw.githubusercontent.com/jimmy-20/Design-Patterns-en-CSharp/master/Images/UML%20Photo.jpg)
+![UML Clases](https://raw.githubusercontent.com/jimmy-20/Design-Patterns-en-CSharp/master/Images/UML%20Photo.jpg)
 
 # Problemática
 Imaginemos que realizamos un CRUD de las clases Producto, Cliente y Personas, cada uno tiene sus respectivos método para crear, visualizar, actualizar y eliminar.  Pero que pasaría si ahora queremos agregar mas clases como puede ser Proveedores, Compras e inclusive Pagos, tendriamos que acoplar y realizar el debido CRUD a cada clase. Hay que tomar en cuenta que todas estas tienen como común las operaciones antes mencionadas y hacer esto de nuevo, puede ser demasiado ineficiente en términos de reutilización de código, ¿porque no usar POO, para que, al momento de agregar una nueva clase, solamente lo acoplemos y herede de una clase abstracta que tenga estas operaciones?. Este escenario es una posible solución para evitar realizar código desde 0, en esto consiste estos patrones de diseños, brindar soluciones a problemáticas que ya surgieron en el pasado para implementarlas en nuestro contexto.
