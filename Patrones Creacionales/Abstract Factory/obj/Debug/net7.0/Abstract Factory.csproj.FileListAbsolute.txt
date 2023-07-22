@@ -1,0 +1,15 @@
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\bin\Debug\net7.0\Abstract Factory.exe
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\bin\Debug\net7.0\Abstract Factory.deps.json
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\bin\Debug\net7.0\Abstract Factory.runtimeconfig.json
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\bin\Debug\net7.0\Abstract Factory.dll
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\bin\Debug\net7.0\Abstract Factory.pdb
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\obj\Debug\net7.0\Abstract Factory.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\obj\Debug\net7.0\Abstract Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\obj\Debug\net7.0\Abstract Factory.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\obj\Debug\net7.0\Abstract Factory.AssemblyInfo.cs
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\obj\Debug\net7.0\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\obj\Debug\net7.0\Abstract Factory.dll
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\obj\Debug\net7.0\refint\Abstract Factory.dll
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\obj\Debug\net7.0\Abstract Factory.pdb
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\obj\Debug\net7.0\Abstract Factory.genruntimeconfig.cache
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Abstract Factory\obj\Debug\net7.0\ref\Abstract Factory.dll
