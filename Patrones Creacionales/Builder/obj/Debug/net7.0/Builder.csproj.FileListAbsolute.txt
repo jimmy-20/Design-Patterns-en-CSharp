@@ -1,0 +1,15 @@
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\bin\Debug\net7.0\Builder.exe
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\bin\Debug\net7.0\Builder.deps.json
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\bin\Debug\net7.0\Builder.dll
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\bin\Debug\net7.0\Builder.pdb
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\obj\Debug\net7.0\Builder.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\obj\Debug\net7.0\Builder.dll
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\obj\Debug\net7.0\refint\Builder.dll
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\obj\Debug\net7.0\Builder.pdb
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\obj\Debug\net7.0\ref\Builder.dll
