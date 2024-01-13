@@ -4,11 +4,14 @@ using Builder.Models;
 using Builder.Models.Concrete;
 using static System.Console;
 
-Director d = new Director();
-CarroBuilder cb = new();
+Director d = new Director(); //Instancia del director de constructores
 
+//Instancias de objetos constructores
+CarroBuilder cb = new();
 ManualCarroBuilder m = new();
 
+
+//Creando objetos con el director, este tiene configuraciones predeterminadas
 Carro carro = d.CarroDeportivo(cb);
 ManualCarro manual = d.ManualDeportivo(m);
 

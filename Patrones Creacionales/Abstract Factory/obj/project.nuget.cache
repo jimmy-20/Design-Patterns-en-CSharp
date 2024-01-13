@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/jpCfoE9DHP8tLqOIic4Fh4eKyX6dseXdeZTgJYP+PAFQQ3Zj5Pws7+x9KpLI/5NBciarFao1hUU03bfQsoZWg==",
+  "dgSpecHash": "E2xXJUATz2mN+5VoGKwEhhEhOMxelUZ/ul9Cb24o022JlTJ1uiwjiryy7SrI98geB+V9n2qKLaB4amGKEwj6GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Creacionales\\Abstract Factory\\Abstract Factory.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Creacionales\\Abstract Factory\\Abstract Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

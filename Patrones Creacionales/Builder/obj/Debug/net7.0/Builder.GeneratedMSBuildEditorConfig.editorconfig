@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Builder
 build_property.ProjectDir = C:\Users\Pc\Desktop\MyProyects\Patrones de diseño C#\Patrones Creacionales\Builder\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
