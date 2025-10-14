@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "awF8mcoAA7xCecRJd7jDy9CFMnVsuDt3iJajShlbW4iF/jdFdunv0wfOVZ0/XVd/+Q/DSUyWSj6QcyDasrKBXQ==",
+  "dgSpecHash": "N0BASLY3VFr6BcxwFEFJ0vuNUCTfTOf7L+UjXN1rNIreSzQg/1SRstPwUp1/YZBDUkZM7sVhNZVt/9/8M/sV/w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\Bridge.csproj",
+  "projectFilePath": "C:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\Bridge.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

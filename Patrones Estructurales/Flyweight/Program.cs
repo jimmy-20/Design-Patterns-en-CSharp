@@ -19,7 +19,7 @@ for (int i =0; i<=10000000;i++)
         Texturas[random.Next(0,3)],
         Nombres.ElementAt(tipoArbol),
         Colores.ElementAt(tipoArbol)
-        );
+    );
 }
 
 long memoriaDespues = GC.GetTotalMemory(true);

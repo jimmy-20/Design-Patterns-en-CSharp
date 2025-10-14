@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\Bridge.csproj": {}
+    "C:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\Bridge.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\Bridge.csproj": {
+    "C:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\Bridge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\Bridge.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\Bridge.csproj",
         "projectName": "Bridge",
-        "projectPath": "c:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\Bridge.csproj",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\Bridge.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\MyProyects\\Patrones de diseño C#\\Patrones Estructurales\\Bridge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"

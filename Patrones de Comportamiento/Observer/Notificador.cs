@@ -1,6 +1,7 @@
 public class Notificador : INotificador
 {
     public int Estado { get; private set; } = 0;
+    public int Intento { get; set; } = 0;
     private List<IObservador> Observadores { get; set; } = new();
 
     public void AgregarObservador(IObservador o)
@@ -17,7 +18,7 @@ public class Notificador : INotificador
 
     public void Notificar()
     {
-        Console.WriteLine("Notificador: !Se ha hecho un cambio!");
+        Console.WriteLine("Notificador: !Se ha hecho un cambio! ; " + Intento++);
         Observadores.ForEach(o => o.Actualizar(this));
     }
 
